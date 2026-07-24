@@ -1,0 +1,24 @@
+streamlit
+pandas
+
+# File & Excel
+openpyxl
+xlsxwriter
+gdown
+
+# Visualization
+matplotlib
+plotly
+
+# Machine Learning & Network
+scikit-learn
+networkx
+
+# Google API
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
+
+# HTTP
+requests
